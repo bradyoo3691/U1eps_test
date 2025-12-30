@@ -1,0 +1,7 @@
+{
+  "name": "U1eps",
+  "description": "A  website of high-end furniture by U1 eps",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
